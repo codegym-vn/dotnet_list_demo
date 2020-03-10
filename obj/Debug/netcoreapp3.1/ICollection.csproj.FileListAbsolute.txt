@@ -1,0 +1,11 @@
+C:\Users\nguye\Documents\CodeGym\ICollection\bin\Debug\netcoreapp3.1\ICollection.exe
+C:\Users\nguye\Documents\CodeGym\ICollection\bin\Debug\netcoreapp3.1\ICollection.deps.json
+C:\Users\nguye\Documents\CodeGym\ICollection\bin\Debug\netcoreapp3.1\ICollection.runtimeconfig.json
+C:\Users\nguye\Documents\CodeGym\ICollection\bin\Debug\netcoreapp3.1\ICollection.runtimeconfig.dev.json
+C:\Users\nguye\Documents\CodeGym\ICollection\bin\Debug\netcoreapp3.1\ICollection.dll
+C:\Users\nguye\Documents\CodeGym\ICollection\bin\Debug\netcoreapp3.1\ICollection.pdb
+C:\Users\nguye\Documents\CodeGym\ICollection\obj\Debug\netcoreapp3.1\ICollection.csprojAssemblyReference.cache
+C:\Users\nguye\Documents\CodeGym\ICollection\obj\Debug\netcoreapp3.1\ICollection.AssemblyInfoInputs.cache
+C:\Users\nguye\Documents\CodeGym\ICollection\obj\Debug\netcoreapp3.1\ICollection.AssemblyInfo.cs
+C:\Users\nguye\Documents\CodeGym\ICollection\obj\Debug\netcoreapp3.1\ICollection.dll
+C:\Users\nguye\Documents\CodeGym\ICollection\obj\Debug\netcoreapp3.1\ICollection.pdb
